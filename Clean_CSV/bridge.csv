@@ -128,10 +128,3 @@ launch_id,rocket_id,site_id,payload_id
 102,falcon9,ksc_lc_39a,Starlink-11
 103,falcon9,ksc_lc_39a,Starlink-12
 104,falcon9,ksc_lc_39a,Starlink-13
-105,falcon9,ccafs_slc_40,Starlink-14
-106,falcon9,ccafs_slc_40,GPS III SV04 (Sacagawea)
-107,falcon9,ksc_lc_39a,Crew-1
-108,falcon9,vafb_slc_4e,Sentinel-6 Michael Freilich
-109,falcon9,ccafs_slc_40,Starlink-15
-110,falcon9,ksc_lc_39a,CRS-21
-110,falcon9,ccafs_slc_40,SXM-7
