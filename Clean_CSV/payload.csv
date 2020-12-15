@@ -1,0 +1,139 @@
+payload_id,type,reused,mass_lb,nationality,cap_serial,manufacturers
+FalconSAT-2,Satellite,False,43.0,United States,NA,NA
+DemoSAT,Satellite,False,,United States,NA,NA
+Trailblazer,Satellite,False,,United States,NA,NA
+PRESat,Satellite,False,,United States,NA,NA
+RatSat,Satellite,False,363.0,United States,NA,NA
+RazakSAT,Satellite,False,440.0,Malaysia,NA,NA
+Dragon Qualification Unit,Dragon Boilerplate,False,,United States,NA,NA
+COTS Demo Flight 1,Dragon 1.0,False,,United States,C101,NA
+Cubesats,Satellite,False,,NA,NA,NA
+COTS Demo Flight 2,Dragon 1.0,False,1157.0,United States,C102,NA
+CRS-1,Dragon 1.0,False,881.0,United States,C103,NA
+Orbcomm-OG2,Dragon 1.0,False,881.0,NA,NA,NA
+CRS-2,Dragon 1.0,False,1492.0,United States,C104,NA
+CASSIOPE,Satellite,False,1100.0,Canada,NA,NA
+SES-8,Satellite,False,6990.0,Luxembourg,NA,NA
+Thaicom 6,Satellite,False,7330.0,Thailand,NA,NA
+CRS-3,Dragon 1.1,False,5062.0,United States,C105,NA
+Orbcomm-OG2-M1,Satellite,False,2901.0,United States,NA,NA
+AsiaSat 8,Satellite,False,9998.0,Hong Kong,NA,NA
+AsiaSat 6,Satellite,False,9762.0,Hong Kong,NA,NA
+CRS-4,Dragon 1.1,False,4885.0,United States,C106,NA
+CRS-5,Dragon 1.1,False,5280.0,United States,C107,NA
+DSCOVR,Satellite,False,1260.0,United States,NA,NA
+ABS-3A,Satellite,False,4307.0,Hong Kong,NA,NA
+Eutelsat 115 West B,Satellite,False,4861.0,France,NA,NA
+CRS-6,Dragon 1.1,False,4184.0,United States,C108,NA
+TürkmenÄlem 52°E / MonacoSAT,Satellite,False,10377.0,Turkmenistan,NA,NA
+CRS-7,Dragon 1.1,False,5460.9,United States,C109,NA
+Orbcomm-OG2-M2,Satellite,False,4484.0,United States,NA,NA
+Jason-3,Satellite,False,1219.0,United States,NA,NA
+SES-9,Satellite,False,11621.0,Luxembourg,NA,NA
+CRS-8,Dragon 1.1,False,6914.0,United States,C110,NA
+JCSAT-2B,Satellite,False,10353.0,Japan,NA,NA
+Thaicom 8,Satellite,False,6800.0,Thailand,NA,NA
+ABS-2A,Satellite,False,3950.0,Hong Kong,NA,NA
+Eutelsat 117 West B,Satellite,False,3950.0,France,NA,NA
+CRS-9,Dragon 1.1,False,4976.0,United States,C111,NA
+JCSAT-16,Satellite,False,10100.0,Japan,NA,NA
+Amos-6,Satellite,False,12100.0,Israel,NA,NA
+Iridium NEXT 1,Satellite,False,21200.0,United States,NA,NA
+CRS-10,Dragon 1.1,False,5490.0,United States,C112,NA
+EchoStar 23,Satellite,False,12399.0,United States,NA,NA
+SES-10,Satellite,False,11700.0,Luxembourg,NA,NA
+NROL-76,Satellite,False,,United States,NA,NA
+Inmarsat-5 F4,Satellite,False,13380.0,United Kingdom,NA,NA
+CRS-11,Dragon 1.1,True,5970.0,United States,C106,NA
+BulgariaSat-1,Satellite,False,8089.0,Bulgaria,NA,NA
+Iridium NEXT 2,Satellite,False,21164.0,United States,NA,NA
+Intelsat 35e,Satellite,False,14905.45,United States,NA,NA
+CRS-12,Dragon 1.1,False,6415.5,United States,C113,NA
+FormoSat-5,Satellite,False,1047.0,Taiwan,NA,NA
+X-37B OTV-5,Satellite,False,11001.0,United States,NA,NA
+Iridium NEXT 3,Satellite,False,21164.4,United States,NA,NA
+SES-11 / Echostar 105,Satellite,False,11464.0,United States,NA,NA
+KoreaSat 5A,Satellite,False,8157.104,South Korea,NA,NA
+CRS-13,Dragon 1.1,True,4861.2,United States,C108,NA
+Iridium NEXT 4,Satellite,False,21164.38,United States,NA,NA
+ZUMA,Satellite,False,,United States,NA,NA
+GovSat-1,Satellite,False,9325.6,Luxembourg,NA,NA
+Tesla Roadster,Satellite,False,2976.2,United States,NA,NA
+Paz,Satellite,False,2976.2,Spain,NA,NA
+Tintin A & B,Satellite,False,1763.7,United States,NA,NA
+Hispasat 30W-6,Satellite,False,13430.6,Spain,NA,NA
+Iridium NEXT 5,Satellite,False,21164.38,United States,NA,NA
+CRS-14,Dragon 1.1,True,6084.7,United States,C110,NA
+TESS,Satellite,False,772.0,United States,NA,NA
+Bangabandhu-1,Satellite,False,8270.0,Bangladesh,NA,NA
+Iridium NEXT 6,Satellite,False,9479.9,United States,NA,NA
+GRACE-FO 1-2,Satellite,False,2557.4,NA,NA,NA
+SES-12,Satellite,False,11869.4,Luxembourg,NA,NA
+CRS-15,Dragon 1.1,True,5313.0,United States,C111,NA
+Telstar 19V,Satellite,False,15600.0,Canada,NA,NA
+Iridium NEXT 7,Satellite,False,21164.38,United States,NA,NA
+Telkom-4,Satellite,False,12786.81,Indonesia,NA,NA
+Telstar 18V,Satellite,False,15564.64,Canada,NA,NA
+SAOCOM 1A,Satellite,False,6172.94,Argentina,NA,NA
+Es’hail 2,Satellite,False,6613.868,Qatar,NA,NA
+SSO-A,Satellite,False,8818.49,United States,NA,NA
+CRS-16,Dragon 1.1,True,5672.494000000001,United States,C112,NA
+GPS III SV01,Satellite,False,9700.34,United States,NA,NA
+Iridium NEXT 8,Satellite,False,21164.38,United States,NA,NA
+Nusantara Satu (PSN-6),Satellite,False,11023.11,Indonesia,NA,NA
+S5,Satellite,False,132.28,United States,NA,NA
+Beresheet,Lander,False,1289.7,Israel,NA,NA
+CCtCap Demo Mission 1,Crew Dragon,False,27026.47,United States,C201,NA
+ArabSat 6A,Satellite,False,13227.74,Saudi Arabia,NA,NA
+CRS-17,Dragon 1.1,True,5472.0,United States,C113,NA
+Starlink v0.9,Satellite,False,30027.0,United States,NA,NA
+RADARSAT Constellation,Satellite,False,3141.59,Canada,NA,NA
+DSX,Satellite,False,1322.77,United States,NA,NA
+COSMIC-2,Satellite,False,3677.3,United States,NA,NA
+GPIM,Satellite,False,396.0,United States,NA,NA
+Oculus-ASR,Satellite,False,154.0,United States,NA,NA
+OTB 1,Satellite,False,304.0,United States,NA,NA
+NPSAT 1,Satellite,False,189.0,United States,NA,NA
+Prox-1,Satellite,False,156.0,United States,NA,NA
+LightSail-B,Satellite,False,11.0,United States,NA,NA
+ARMADILLO,Satellite,False,8.8,United States,NA,NA
+FalconSat 7,Satellite,False,11.0,United States,NA,NA
+E-TBEx A & B,Satellite,False,8.8,United States,NA,NA
+PSat 2,Satellite,False,4.4,United States,NA,NA
+BRICSat 2,Satellite,False,2.2,United States,NA,NA
+TEPCE 1 & 2,Satellite,False,3.3,United States,NA,NA
+CP9,Satellite,False,3.3,United States,NA,NA
+StangSat,Satellite,False,2.2,United States,NA,NA
+CRS-18,Dragon 1.1,True,4911.2,United States,C108,NA
+Amos-17,Satellite,False,14330.05,Israel,NA,NA
+Starlink 1,Satellite,False,34392.1,United States,NA,NA
+CRS-19,Dragon 1.1,True,11023.0,United States,C106,NA
+JCSat 18 / Kacific 1,Satellite,False,14991.43,Japan,NA,NA
+Starlink 2,Satellite,False,33951.2,United States,NA,NA
+Crew Dragon In Flight Abort Test,Crew Dragon,False,,United States,C205,NA
+Starlink 3,Satellite,False,34392.113,United States,NA,NA
+Starlink 4,Satellite,False,33951.2,United States,NA,NA
+CRS-20,Dragon 1.1,True,4358.539000000001,United States,C112,NA
+Starlink 5,Satellite,False,34392.113,United States,NA,NA
+Starlink 6,Satellite,False,33951.2,United States,NA,NA
+Starlink 7,Satellite,False,33951.2,United States,NA,NA
+CCtCap Demo Mission 2,Crew Dragon,False,20999.03,United States,C206,NA
+Starlink 8,Satellite,False,33951.2,United States,NA,NA
+SAOCOM 1B,Satellite,False,3527.3959999999997,Argentina,NA,NA
+ANASIS-II,Satellite,False,,South Korea,NA,NA
+GPS III SV03 (Columbus),Satellite,False,8553.94,United States,NA,NA
+SXM-7,Satellite,False,,United States,NA,NA
+GPS III SV04 (Sacagawea),Satellite,False,8115.215999999999,United States,NA,NA
+Crew-1,Crew Dragon,False,,United States,C207,NA
+GPS III SV05,Satellite,False,,,,
+CRS-21,Dragon 1.1,True,,United States,C208,NA
+Turksat 5A,Satellite,False,,,,
+Starlink-9,Satellite,False,33245.7,United States,NA,NA
+Starlink 10,Satellite,False,33951.2,,,
+Sentinel-6 Michael Freilich,Satellite,False,3174.657,United States,NA,NA
+BlackSky Global 5-6,Satellite,False,246.92,United States,NA,NA
+Starlink-11,Satellite,False,33951.2,United States,NA,NA
+Starlink-12,Satellite,False,33951.2,United States,NA,NA
+Starlink-13,Satellite,False,33951.2,United States,NA,NA
+Starlink-14,Satellite,False,33951.2,United States,NA,NA
+NROL-108,Satellite,False,,,,
