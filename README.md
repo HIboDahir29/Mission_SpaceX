@@ -2,7 +2,12 @@
 
 # Guidelines for ETL Project
 
-This document contains guidelines, requirements, and suggestions for Project 1.
+This document contains guidelines, requirements, and suggestions for Project 2.
+Group members:
+1) Tejal Kotkar
+2) Savita Hirilall
+3) Hibo Dahir
+4) Phanit Tameerug
 
 ## Project Proposal
 
